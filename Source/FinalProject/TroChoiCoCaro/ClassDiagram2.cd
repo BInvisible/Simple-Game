@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TroChoiCoCaro.CaroChess" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAASAEBAAFCRAURADiACaIdAAQAAAAAggAYAAQQIDA=</HashCode>
+      <FileName>Caro\CaroChess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.ChessBoard" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAEAAACAAAAIIAAgAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Caro\ChessBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.ChessPieces" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAgAAAABAAAAAAACAAgAAAAAEgIAABBA=</HashCode>
+      <FileName>Caro\ChessPieces.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Bird" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAgEAKIIBgAAASGAEIAtgACAAAAAAEAAAAAEEAA=</HashCode>
+      <FileName>FlappyBird\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Game" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQwAKAHAIAAAgIQhAAIAQCAIEEAQAgAgAAACAAAAAA=</HashCode>
+      <FileName>FlappyBird\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.GameObject" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIABAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlappyBird\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Pipe" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAGAhgAAAAAAAgAAAAEACAAgAAgAAgAIAA=</HashCode>
+      <FileName>FlappyBird\Pipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.ScrollBackground" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEBAAAAgQAAAAAAIAEAACAAAAAAAAgAAAEIAA=</HashCode>
+      <FileName>FlappyBird\ScrollBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.FlappyBird" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQQAAAAAACAAAAAAAAGAAAACAAAAIAAIAEFAAAEAAAA=</HashCode>
+      <FileName>FlappyBird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Form1" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQEAEQAiESAAAAAABADAAQECAAAAAAAIBEQABDAAAAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Form2" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAIAAAKQCABAACBCIAAACAAgIIAgICIAAAgAAgAM=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.frmMain" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IbGOIBQKyChYGBwABDjYFYAKEGmxAAAUEzqAQQjBCAA=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Food" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAgAAAAQARAAgAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Hunting Snake\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Snake" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgQBAgEAAASAQAAAAAAAAAAAAAAAAABgCEAAAAI=</HashCode>
+      <FileName>Hunting Snake\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.MainForm" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAABAAAACAEAACAEA4BAAAAHAIAgAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.CBong">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQAAgAACEAHCAQIAAgEgAAAIAAAAAA=</HashCode>
+      <FileName>PingPong\CBong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.CNguoiChoi1">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQADAQAAAAAAEABCAQIAAgAgAAAIAAAAAA=</HashCode>
+      <FileName>PingPong\CNguoiChoi1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.CNguoiChoi2">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQADAQAAAAAAEABCAQIAAgAgAAAIAAAAAA=</HashCode>
+      <FileName>PingPong\CNguoiChoi2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.CSanDau">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABACAQAAAAAAEABAAQIAAgAgAAAIAAAAAA=</HashCode>
+      <FileName>PingPong\CSanDau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Program" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Resource1" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAIAAAAAAAAABEQAAAQAAACAAAAAAAAAAIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Properties.Resources" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAEAAAAAAAAABEAAAEQAIAAAAAAQAAAAAAoA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TroChoiCoCaro.Properties.Settings" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TroChoiCoCaro.END" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAwAAAAAAAAAAAABAAAAAAAQAAAAA=</HashCode>
+      <FileName>Caro\CaroChess.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
